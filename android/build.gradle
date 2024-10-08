@@ -31,6 +31,8 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
+    
+    namespace "com.tablemi.flutter_bluetooth_basic"
 }
 
 dependencies {
